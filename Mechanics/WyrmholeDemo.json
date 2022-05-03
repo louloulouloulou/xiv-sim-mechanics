@@ -151,11 +151,33 @@
             "targetingScheme": {
               "$type": "TargetSpecificPlayerIds",
               "targetIds": [
+                0
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-1"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
                 1
               ],
               "targetLivingOnly": false
             },
             "referenceMechanicName": "Elusive-1"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
+                1
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-1"
           },
           {
             "$type": "SpawnTargetedEvents",
@@ -173,11 +195,33 @@
             "targetingScheme": {
               "$type": "TargetSpecificPlayerIds",
               "targetIds": [
+                2
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-1"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
                 3
               ],
               "targetLivingOnly": false
             },
             "referenceMechanicName": "HiJump-3"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
+                3
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-3"
           },
           {
             "$type": "SpawnTargetedEvents",
@@ -195,11 +239,33 @@
             "targetingScheme": {
               "$type": "TargetSpecificPlayerIds",
               "targetIds": [
+                4
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-3"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
                 5
               ],
               "targetLivingOnly": false
             },
             "referenceMechanicName": "HiJump-3"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
+                5
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-3"
           }
         ]
       }
@@ -225,11 +291,33 @@
             "targetingScheme": {
               "$type": "TargetSpecificPlayerIds",
               "targetIds": [
+                0
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-1"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
                 1
               ],
               "targetLivingOnly": false
             },
             "referenceMechanicName": "HiJump-1"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
+                1
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-1"
           },
           {
             "$type": "SpawnTargetedEvents",
@@ -247,11 +335,33 @@
             "targetingScheme": {
               "$type": "TargetSpecificPlayerIds",
               "targetIds": [
+                2
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-1"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
                 3
               ],
               "targetLivingOnly": false
             },
             "referenceMechanicName": "Spineshatter-3"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
+                3
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-3"
           },
           {
             "$type": "SpawnTargetedEvents",
@@ -269,11 +379,33 @@
             "targetingScheme": {
               "$type": "TargetSpecificPlayerIds",
               "targetIds": [
+                4
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-3"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
                 5
               ],
               "targetLivingOnly": false
             },
             "referenceMechanicName": "HiJump-3"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
+                5
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-3"
           }
         ]
       }
@@ -299,11 +431,33 @@
             "targetingScheme": {
               "$type": "TargetSpecificPlayerIds",
               "targetIds": [
+                6
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-2"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
                 7
               ],
               "targetLivingOnly": false
             },
             "referenceMechanicName": "Elusive-2"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
+                7
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-2"
           }
         ]
       }
@@ -329,11 +483,33 @@
             "targetingScheme": {
               "$type": "TargetSpecificPlayerIds",
               "targetIds": [
+                6
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-2"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
                 7
               ],
               "targetLivingOnly": false
             },
             "referenceMechanicName": "HiJump-2"
+          },
+          {
+            "$type": "SpawnTargetedEvents",
+            "targetingScheme": {
+              "$type": "TargetSpecificPlayerIds",
+              "targetIds": [
+                7
+              ],
+              "dropExtraEvents": true
+            },
+            "referenceMechanicName": "LimitCutMarker-2"
           }
         ]
       }
@@ -815,6 +991,69 @@
           "damageType": "TrueDamage",
           "damageAmount": 9999999.0
         }
+      }
+    },
+    "LimitCutMarker-1": {
+      "visible": false,
+      "mechanic": {
+        "$type": "SpawnVisualObject",
+        "textureFilePath": "Mechanics/Resources/LimitCut-1.png",
+        "relativePosition": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "colorHtml": "#0000ff",
+        "spawnOnPlayer": true,
+        "isBillboard": true,
+        "visualDuration": 8.0
+      }
+    },
+    "LimitCutMarker-2": {
+      "visible": false,
+      "mechanic": {
+        "$type": "SpawnVisualObject",
+        "textureFilePath": "Mechanics/Resources/LimitCut-2.png",
+        "relativePosition": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "colorHtml": "#ff0000",
+        "spawnOnPlayer": true,
+        "isBillboard": true,
+        "visualDuration": 8.0
+      }
+    },
+    "LimitCutMarker-3": {
+      "visible": false,
+      "mechanic": {
+        "$type": "SpawnVisualObject",
+        "textureFilePath": "Mechanics/Resources/LimitCut-3.png",
+        "relativePosition": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "colorHtml": "#0000ff",
+        "spawnOnPlayer": true,
+        "isBillboard": true,
+        "visualDuration": 8.0
       }
     },
     "HiJump-1": {
